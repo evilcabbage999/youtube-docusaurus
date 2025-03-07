@@ -9,7 +9,7 @@ const config: Config = {
   tagline: '',
   favicon: 'img/favicon.ico',
 
-  url: 'http://localhost:3000/docs/Introduction',
+  url: '/docs/Introduction',
   baseUrl: '/',
 
   onBrokenLinks: 'throw',
